@@ -1,0 +1,1 @@
+obj\Debug\designtime\Resource.Designer.cs

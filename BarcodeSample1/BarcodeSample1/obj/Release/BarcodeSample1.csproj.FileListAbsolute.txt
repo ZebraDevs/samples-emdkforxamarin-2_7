@@ -1,0 +1,17 @@
+D:\Project_Daily_Pull\EMDK_Xamarin\Source\Samples\BarcodeSample1\BarcodeSample1\bin\Release\BarcodeSample1.dll
+D:\Project_Daily_Pull\EMDK_Xamarin\Source\Samples\BarcodeSample1\BarcodeSample1\bin\Release\BarcodeSample1.pdb
+D:\Project_Daily_Pull\EMDK_Xamarin\Source\Samples\BarcodeSample1\BarcodeSample1\bin\Release\Symbol.XamarinEMDK.BarcodeSample1.apk
+D:\Project_Daily_Pull\EMDK_Xamarin\Source\Samples\BarcodeSample1\BarcodeSample1\bin\Release\Symbol.XamarinEMDK.BarcodeSample1-Signed.apk
+D:\Project_Daily_Pull\EMDK_Xamarin\Source\Samples\BarcodeSample1\BarcodeSample1\bin\Release\Symbol.XamarinEMDK.dll
+D:\Project_Daily_Pull\EMDK_Xamarin\Source\Samples\BarcodeSample1\BarcodeSample1\obj\Release\BarcodeSample1.csprojResolveAssemblyReference.cache
+D:\Project_Daily_Pull\EMDK_Xamarin\Source\Samples\BarcodeSample1\BarcodeSample1\obj\Release\BarcodeSample1.dll
+D:\Project_Daily_Pull\EMDK_Xamarin\Source\Samples\BarcodeSample1\BarcodeSample1\obj\Release\BarcodeSample1.pdb
+D:\Project_Daily_Pull\EMDK_Xamarin\Source\Samples\BarcodeSample1\BarcodeSample1\obj\Release\android\bin\Symbol.XamarinEMDK.BarcodeSample1.apk
+D:\Project_Daily_Pull\EMDK_Xamarin\Source\Samples\BarcodeSample1\BarcodeSample1\obj\Release\res\layout\portrait.xml
+D:\Project_Daily_Pull\EMDK_Xamarin\Source\Samples\BarcodeSample1\BarcodeSample1\obj\Release\res\layout\landscape.xml
+D:\Project_Daily_Pull\EMDK_Xamarin\Source\Samples\BarcodeSample1\BarcodeSample1\obj\Release\res\values\strings.xml
+D:\Project_Daily_Pull\EMDK_Xamarin\Source\Samples\BarcodeSample1\BarcodeSample1\obj\Release\res\drawable\icon.png
+D:\Project_Daily_Pull\EMDK_Xamarin\Source\Samples\BarcodeSample1\BarcodeSample1\obj\Release\res\values\dimens.xml
+D:\Project_Daily_Pull\EMDK_Xamarin\Source\Samples\BarcodeSample1\BarcodeSample1\obj\Release\R.cs.flag
+D:\Project_Daily_Pull\EMDK_Xamarin\Source\Samples\BarcodeSample1\BarcodeSample1\obj\Release\uploadflags.txt
+obj\Release\designtime\Resource.Designer.cs
